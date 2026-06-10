@@ -20,14 +20,14 @@ __contributors__ = []
 #A variable not listed in VAR_NAME will have an empty legend
 VAR_NAME = {
             'qv': "Specific content of vapor",
-            'qc': "Specific content of cloud droptlets",
+            'qc': "Specific content of cloud droplets",
             'qr': "Specific content of rain",
             'qi': "Specific content of cloud ice",
             'qs': "Specific content of snow",
             'qg': "Specific content of graupel",
             'qh': "Specific content of hail",
             'rv': "Mixing-ratio of vapor",
-            'rc': "Mixing-ratio of cloud droptlets",
+            'rc': "Mixing-ratio of cloud droplets",
             'rr': "Mixing-ratio of rain",
             'ri': "Mixing-ratio of cloud ice",
             'rs': "Mixing-ratio of snow",
